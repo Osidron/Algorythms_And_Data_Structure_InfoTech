@@ -28,7 +28,6 @@ VAR
   Ch: CHAR;
   IsActionMade: BOOLEAN;  
 BEGIN                                                                                                                                                        
-//UnaryMinusCheck(F);                                                                                                                                                 
   WHILE NOT EOF AND NOT EOLN                                                                                                                                 
   DO                                                                                                                                                         
     BEGIN                                                                                                                                                    
